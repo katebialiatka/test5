@@ -1,0 +1,13 @@
+### YamlMime:Sample
+sample:
+- name: Node.js Sample2
+  description: A sample that shows how to use Node.js
+  generateZip: false
+  author: ant
+  languages:
+  - csharp
+  technologies:
+  - advanced-threat-analytics
+  ci_config:
+  - path: /test5
+    template: nodejs
