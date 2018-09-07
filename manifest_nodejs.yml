@@ -9,4 +9,5 @@ sample:
   technologies:
   - advanced-threat-analytics
   ci_config:
+    path: /.
     template: nodejs
