@@ -1,7 +1,7 @@
 ### YamlMime:Sample
 sample:
 - name: Node.js Sample2
-  description: A sample that shows how to use Node.js
+  description: That sample that shows how to use Node.js
   generateZip: true
   author: ant
   languages:
