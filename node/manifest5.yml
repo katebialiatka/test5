@@ -8,6 +8,3 @@ sample:
   - csharp
   technologies:
   - advanced-threat-analytics
-  ci_config:
-  - path: /node
-    template: nodejs
