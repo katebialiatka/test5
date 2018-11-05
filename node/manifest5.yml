@@ -10,4 +10,4 @@ sample:
   - advanced-threat-analytics
   ci_config:
   - path: /node
-    template: java_maven
+    template: nodejs
