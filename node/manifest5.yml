@@ -2,7 +2,7 @@
 sample:
 - name: Node.js Sample2
   description: The sample that shows how to use Node.js
-  generateZip: false
+  generateZip: true
   author: ant
   languages:
   - csharp
